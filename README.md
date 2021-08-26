@@ -1,4 +1,6 @@
 ## Bike incidents in the US
+
+![Screenshot](bikes.jpg)<br>
 Data visualization project with Tableau - Data from Kaggle
 
 ## ABOUT
